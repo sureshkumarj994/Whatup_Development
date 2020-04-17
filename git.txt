@@ -1,0 +1,11 @@
+THIS IS WHATSUP CODE:
+
+Author: Sureshkumar
+
+1.Profile Page code
+
+2.Chat Screen code
+
+3.Last seen code 
+
+4.Attachments (Image, Audio,video) code
