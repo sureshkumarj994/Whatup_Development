@@ -16,4 +16,4 @@ Author: Sureshkumar
 
 7.Adding the video call feature
 
-8.Adding status so that user can play train games.
+8.Adding status so that user can play pubg games.
